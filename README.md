@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhay77verma
-- 👀 I’m interested in logic building and we developing 
+- 👀 I’m interested in logic building and web developing 
 - 🌱 I’m currently learning basic languages 
 - 💞️ I’m looking to collaborate on empty
 - 📫 How to reach me ...
